@@ -1,4 +1,4 @@
-# ProjectEuler
+#  < ProjectEuler >
 
 
 
@@ -9,6 +9,6 @@
 
 
 
-This repo contains only C programming approaches.
+* This repo contains only C programming approaches.
 
-This is the repository for problems located on https://projecteuler.net/ algorithmic approaches toward mathematical problems
+* This is the repository for problems located on https://projecteuler.net/ algorithmic approaches toward mathematical problems
