@@ -1,5 +1,4 @@
-Even Fibonacci numbers 
-Problem 2
+Even Fibonacci numbers
 
 The question is:
 
